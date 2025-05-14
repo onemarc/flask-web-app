@@ -11,4 +11,4 @@ Step-by-step, the application works as follows:
 Such an architectural solution will ensure automatic, scalable and secure web application development.
 
 ### Diagram of Flask Web Application
-![diagram-for-flask-web-app](https://github-production-user-asset-6210df.s3.amazonaws.com/110691813/369084655-b05c043d-a247-42c2-a014-83a288461cd3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250407%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250407T131434Z&X-Amz-Expires=300&X-Amz-Signature=bdf17d0f908aa7d0a7117c86dc5672c6eebe478839aed5203edf8715514e81fd&X-Amz-SignedHeaders=host)
+![flask-diagram](https://github.com/user-attachments/assets/5203127c-bf70-4adf-953b-a0e0a28d36d0)
